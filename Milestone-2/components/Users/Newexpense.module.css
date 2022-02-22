@@ -1,0 +1,13 @@
+.txt{
+    text-align: center;
+    text-decoration-style: solid;
+    font-weight: 500;
+    color:rgb(6, 14, 6);
+    display: flex;
+    justify-content:space-evenly;
+}
+.sidebyside{
+    display: flex;
+    justify-content:space-evenly;
+}
+
